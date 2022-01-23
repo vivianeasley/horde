@@ -1,8 +1,8 @@
-![Example of horde gameplay](https://robertpage.github.io/horde/images/game-demo.jpg)
+![Example of horde gameplay](https://vivianeasley.github.io/horde/images/game-demo.jpg)
 
 # Horde: A cooperative or solo way to play magic with your cards
 
-## [DEMO](https://robertpage.github.io/horde/)
+## [DEMO](https://vivianeasley.github.io/horde/)
 
 This is a way to play Magic the Gathering solo or cooperatively with your friends! The game is partly managed by the computer but mostly managed by the players. Built over about a week it only contains two decks currently but if there is interest I will continue to fix bugs and add decks to it. Decks to add: Elementals, Beasts, Rogues, and Spirits.
 
